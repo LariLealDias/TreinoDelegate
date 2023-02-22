@@ -1,8 +1,8 @@
 # TreinoDelegate
-Treino do tipo objeto delegate
+Anotações: o que é, para que serve, como usar o metodo override ToString()
 
 ## Delegate
-o que é, para que serve, como usar o metodo override ToString()
+treino
 <br>
 ### Anotações
 https://talented-gray-8e7.notion.site/Delegate-220b7529bf2b4af492b13889cade6eff
